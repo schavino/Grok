@@ -250,5 +250,12 @@
   "para": "Sebastian",
   "tipo": "envia",
   "texto": "Revisión solo lectura de Otros (12/10 ~13:35): no hay correos de hoy ni posterio"
+ },
+ {
+  "ts": "2026-10-12T14:31:31-03:00",
+  "de": "Correo",
+  "para": "El Mero Mero",
+  "tipo": "envia",
+  "texto": "Correo movido a Clientes/PCSAPI (RE: Pendientes y coordinación, Read Assistant 1"
  }
 ]
