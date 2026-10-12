@@ -166,5 +166,19 @@
   "para": "Sebastian",
   "tipo": "envia",
   "texto": "Rutina 8:10: Outlook abierto; sin correos nuevos para archivar; vista agrupada r"
+ },
+ {
+  "ts": "2026-10-12T09:34:41-03:00",
+  "de": "Correo",
+  "para": "El Mero Mero",
+  "tipo": "envia",
+  "texto": "Rutina horaria 12 oct ~9:33: sesión Outlook abierta; no hay correos de hoy en Pr"
+ },
+ {
+  "ts": "2026-10-12T09:35:00-03:00",
+  "de": "Correo",
+  "para": "Sebastian",
+  "tipo": "envia",
+  "texto": "Rutina 9:32: Outlook ok, sin correos nuevos de hoy; no moví nada."
  }
 ]
