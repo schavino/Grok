@@ -215,5 +215,19 @@
   "para": "Sebastian",
   "tipo": "envia",
   "texto": "Rutina horaria iniciada: revisando Outlook web."
+ },
+ {
+  "ts": "2026-10-12T11:48:13-03:00",
+  "de": "Correo",
+  "para": "El Mero Mero",
+  "tipo": "envia",
+  "texto": "Rutina horaria 11:45: movido 1 correo (PROMET, Alfonso) a Clientes/Promet; PILCA"
+ },
+ {
+  "ts": "2026-10-12T11:48:28-03:00",
+  "de": "Correo",
+  "para": "Sebastian",
+  "tipo": "envia",
+  "texto": "Rutina horaria: moví PROMET a Clientes/Promet; dejé PILCA (sin carpeta) y Pre-Re"
  }
 ]
