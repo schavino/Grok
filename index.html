@@ -5,10 +5,18 @@
     <link rel="icon" href="data:," />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
     <title>Oficina de El Mero Mero</title>
-    <script type="module" crossorigin src="./assets/index-aRQBQk89.js"></script>
+    <style>
+      /* Celular: el pie va en una franja propia abajo y la oficina termina encima. */
+      @media (max-width: 599px) {
+        #root { height: calc(100% - 22px) !important; }
+        .pie-oficina { left: 0 !important; right: 0 !important; bottom: 0 !important; height: 22px; box-sizing: border-box;
+          font-size: 9px !important; line-height: 18px; text-align: center; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+      }
+    </style>
+    <script type="module" crossorigin src="./assets/index-BSmDTV5W.js"></script>
     <link rel="stylesheet" crossorigin href="./assets/index-CZzEmwzj.css">
   </head>
   <body>
     <div id="root"></div>
-  <div style="position:fixed;right:6px;bottom:4px;font:11px monospace;color:#aaa;z-index:9999;background:#0008;padding:2px 6px">Oficina de El Mero Mero · basada en <a style="color:#9cf" href="https://github.com/pixel-agents-hq/pixel-agents">pixel-agents</a> (MIT) · <a style="color:#9cf" href="LICENSE-pixel-agents.txt">licencia</a> · <a style="color:#9cf" href="v1/">versión anterior</a></div></body>
+  <div class="pie-oficina" style="position:fixed;right:6px;bottom:4px;font:11px monospace;color:#aaa;z-index:9999;background:#0008;padding:2px 6px">Oficina de El Mero Mero · basada en <a style="color:#9cf" href="https://github.com/pixel-agents-hq/pixel-agents">pixel-agents</a> (MIT) · <a style="color:#9cf" href="LICENSE-pixel-agents.txt">licencia</a> · <a style="color:#9cf" href="v1/">versión anterior</a></div></body>
 </html>
