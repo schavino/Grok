@@ -32,7 +32,7 @@ function animar(e){const a=A[e.de];if(!a)return;const [x,y]=LUG[e.para]||LUG["El
  a.estado=(e.tipo=="pide"?"Pidiendo a ":"Llevando a ")+e.para;a.q.push({k:"ir",x:x+30,y:y},{k:"hablar",txt:e.texto},{k:"ir",x:a.dx,y:a.dy},{k:"fin"});estado()}
 function logear(e){const d=document.createElement("div");d.className="ev";d.innerHTML=`<span>${chile(e.ts)}</span> <b>${e.de} → ${e.para}</b><br>${e.texto}`;const L=document.getElementById("log");L.prepend(d);while(L.children.length>60)L.lastChild.remove()}
 function estado(){document.getElementById("estado").innerHTML=Object.values(A).map(a=>`<div class="ag"><span class="dot" style="background:${a.col}"></span>${a.n}: <i>${a.estado}</i></div>`).join("")}
-async function cargar(){let E;try{E=await (await fetch("eventos.json?"+Date.now())).json()}catch(x){E=window.EVENTOS_RESPALDO||[]}
+async function cargar(){let E;try{E=await (await fetch("../eventos.json?"+Date.now())).json()}catch(x){E=window.EVENTOS_RESPALDO||[]}
  E.sort((a,b)=>a.ts<b.ts?-1:1);const nuevo=E.filter(e=>!vistos.has(e.ts+e.de+e.texto));const primero=!vistos.size;
  nuevo.forEach(e=>{vistos.add(e.ts+e.de+e.texto);logear(e)});
  const reciente=E.filter(e=>Date.now()-new Date(e.ts)<10*60e3);
