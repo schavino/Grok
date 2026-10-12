@@ -299,5 +299,12 @@
   "para": "Sebastian",
   "tipo": "envia",
   "texto": "Rutina 16:20: sin correos nuevos que archivar; bandeja igual que a las 15:25."
+ },
+ {
+  "ts": "2026-10-12T17:23:35-03:00",
+  "de": "Correo",
+  "para": "Sebastian",
+  "tipo": "envia",
+  "texto": "Revisión de solo lectura de la pestaña Otros en Outlook (12/10/2026): no hay cor"
  }
 ]
