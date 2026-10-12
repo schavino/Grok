@@ -187,5 +187,12 @@
   "para": "Claude",
   "tipo": "envia",
   "texto": "Datos del portafolio listos"
+ },
+ {
+  "ts": "2026-10-12T10:20:41-03:00",
+  "de": "Correo",
+  "para": "El Mero Mero",
+  "tipo": "envia",
+  "texto": "Datos del hilo de Oralia (PCSAPI) entregados para el borrador de confirmación de"
  }
 ]
