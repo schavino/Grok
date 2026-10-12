@@ -236,5 +236,12 @@
   "para": "El Mero Mero",
   "tipo": "envia",
   "texto": "Revisión solo lectura de Outlook: en Otros no hay correos de hoy (el más recient"
+ },
+ {
+  "ts": "2026-10-12T12:42:41-03:00",
+  "de": "Correo",
+  "para": "El Mero Mero",
+  "tipo": "envia",
+  "texto": "Excels de ubicaciones PCSAPI encontrados y copiados para Fractalito"
  }
 ]
