@@ -208,5 +208,12 @@
   "para": "Sebastian",
   "tipo": "envia",
   "texto": "Rutina horaria 10:38: moví 2 correos de Alfonso (reunión e invitación con Maersk"
+ },
+ {
+  "ts": "2026-10-12T11:45:11-03:00",
+  "de": "Correo",
+  "para": "Sebastian",
+  "tipo": "envia",
+  "texto": "Rutina horaria iniciada: revisando Outlook web."
  }
 ]
