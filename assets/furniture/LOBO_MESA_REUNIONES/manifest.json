@@ -1,0 +1,13 @@
+{
+  "id": "LOBO_MESA_REUNIONES",
+  "name": "Mesa de reuniones",
+  "category": "desks",
+  "type": "asset",
+  "canPlaceOnWalls": false,
+  "canPlaceOnSurfaces": false,
+  "backgroundTiles": 0,
+  "width": 48,
+  "height": 32,
+  "footprintW": 3,
+  "footprintH": 2
+}
