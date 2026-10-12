@@ -313,5 +313,12 @@
   "para": "Sebastian",
   "tipo": "envia",
   "texto": "Revisión de solo lectura en pestaña Otros (12/10 ~18:20): no hay correos de hoy;"
+ },
+ {
+  "ts": "2026-10-12T18:35:50-03:00",
+  "de": "Correo",
+  "para": "Sebastian",
+  "tipo": "envia",
+  "texto": "Invitación Sesión PCSAPI – Fracttal enviada para el jueves 15/10 14:00"
  }
 ]
