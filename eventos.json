@@ -152,5 +152,19 @@
   "para": "El Mero Mero",
   "tipo": "envia",
   "texto": "Resumen Outlook lunes 12 listo"
+ },
+ {
+  "ts": "2026-10-12T08:18:22-03:00",
+  "de": "Correo",
+  "para": "El Mero Mero",
+  "tipo": "envia",
+  "texto": "Rutina 8:13 Chile: sesión de Outlook abierta. Sin correos nuevos para mover: los"
+ },
+ {
+  "ts": "2026-10-12T08:18:35-03:00",
+  "de": "Correo",
+  "para": "Sebastian",
+  "tipo": "envia",
+  "texto": "Rutina 8:10: Outlook abierto; sin correos nuevos para archivar; vista agrupada r"
  }
 ]
