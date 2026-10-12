@@ -138,5 +138,12 @@
   "para": "Sebastian",
   "tipo": "informe",
   "texto": "Informe diario"
+ },
+ {
+  "ts": "2026-10-12T07:31:21-03:00",
+  "de": "Reuniones",
+  "para": "El Mero Mero",
+  "tipo": "envia",
+  "texto": "Resumen diario de Read AI enviado (lun 12 oct)"
  }
 ]
