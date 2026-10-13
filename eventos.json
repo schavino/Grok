@@ -411,5 +411,12 @@
   "para": "Sebastian",
   "tipo": "envia",
   "texto": "Rutina horaria 9:18: sin movimientos; 2 correos nuevos de Alfonso (Proyecto Frac"
+ },
+ {
+  "ts": "2026-10-13T10:29:30-03:00",
+  "de": "Correo",
+  "para": "Sebastian",
+  "tipo": "envia",
+  "texto": "Revisión horaria 10:28: sin correos para mover a Clientes"
  }
 ]
