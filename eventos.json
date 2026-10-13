@@ -495,5 +495,12 @@
   "para": "Sebastian",
   "tipo": "envia",
   "texto": "Rutina horaria: 2 correos a Electrogas (aceptación e informe sesión 6); bandeja "
+ },
+ {
+  "ts": "2026-10-13T18:17:20-03:00",
+  "de": "Correo",
+  "para": "El Mero Mero",
+  "tipo": "envia",
+  "texto": "Rutina horaria 18:14 Chile: sin correos nuevos desde la pasada de 17:16 (el más "
  }
 ]
