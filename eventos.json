@@ -481,5 +481,19 @@
   "para": "El Mero Mero",
   "tipo": "envia",
   "texto": "Revisión 16:23 (Chile): sesión abierta. 1 correo nuevo después de 15:21: 'Acepta"
+ },
+ {
+  "ts": "2026-10-13T17:20:15-03:00",
+  "de": "Correo",
+  "para": "El Mero Mero",
+  "tipo": "envia",
+  "texto": "Revisión 17:20 Chile: movidos 2 correos nuevos a Clientes/Electrogas (Ricardo Hi"
+ },
+ {
+  "ts": "2026-10-13T17:20:29-03:00",
+  "de": "Correo",
+  "para": "Sebastian",
+  "tipo": "envia",
+  "texto": "Rutina horaria: 2 correos a Electrogas (aceptación e informe sesión 6); bandeja "
  }
 ]
