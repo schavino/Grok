@@ -390,5 +390,26 @@
   "para": "Sebastian",
   "tipo": "envia",
   "texto": "Marqué como no leído el correo de Alfonso 'Sesion 1 Fracttal / Casa Ley' (Lun 20"
+ },
+ {
+  "ts": "2026-10-13T09:20:23-03:00",
+  "de": "Correo",
+  "para": "El Mero Mero",
+  "tipo": "envia",
+  "texto": "Revisión de solo lectura Outlook 9:19 (13/10): Otros sin correos de hoy (último "
+ },
+ {
+  "ts": "2026-10-13T09:21:12-03:00",
+  "de": "Correo",
+  "para": "Sebastian",
+  "tipo": "envia",
+  "texto": "Revisado Outlook: el correo de Alfonso 'Sesion 1 Fracttal / Casa Ley' ya estaba "
+ },
+ {
+  "ts": "2026-10-13T09:21:28-03:00",
+  "de": "Correo",
+  "para": "Sebastian",
+  "tipo": "envia",
+  "texto": "Rutina horaria 9:18: sin movimientos; 2 correos nuevos de Alfonso (Proyecto Frac"
  }
 ]
