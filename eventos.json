@@ -418,5 +418,12 @@
   "para": "Sebastian",
   "tipo": "envia",
   "texto": "Revisión horaria 10:28: sin correos para mover a Clientes"
+ },
+ {
+  "ts": "2026-10-13T11:33:40-03:00",
+  "de": "Correo",
+  "para": "Sebastian",
+  "tipo": "envia",
+  "texto": "13/10 ~11:32 Chile: revisión de correos nuevos tras 10:28 en Prioritarios y Otro"
  }
 ]
