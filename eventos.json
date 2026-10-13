@@ -509,5 +509,19 @@
   "para": "El Mero Mero",
   "tipo": "envia",
   "texto": "Rutina 18:14: sin correos nuevos desde 17:16; nada movido; sesión Outlook abiert"
+ },
+ {
+  "ts": "2026-10-13T19:22:54-03:00",
+  "de": "Correo",
+  "para": "El Mero Mero",
+  "tipo": "envia",
+  "texto": "Revisión horaria 2026-10-13 ~19:20 Chile: movido 1 correo (Alfonso, 'Aceptado: S"
+ },
+ {
+  "ts": "2026-10-13T19:23:08-03:00",
+  "de": "Correo",
+  "para": "oficina",
+  "tipo": "envia",
+  "texto": "Rutina 19:16: 1 a Electrogas (aceptación Sesión 6 Alfonso); dejó Archivos Fracta"
  }
 ]
