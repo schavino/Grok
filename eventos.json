@@ -502,5 +502,12 @@
   "para": "El Mero Mero",
   "tipo": "envia",
   "texto": "Rutina horaria 18:14 Chile: sin correos nuevos desde la pasada de 17:16 (el más "
+ },
+ {
+  "ts": "2026-10-13T18:17:30-03:00",
+  "de": "Correo",
+  "para": "El Mero Mero",
+  "tipo": "envia",
+  "texto": "Rutina 18:14: sin correos nuevos desde 17:16; nada movido; sesión Outlook abiert"
  }
 ]
