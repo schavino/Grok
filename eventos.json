@@ -425,5 +425,19 @@
   "para": "Sebastian",
   "tipo": "envia",
   "texto": "13/10 ~11:32 Chile: revisión de correos nuevos tras 10:28 en Prioritarios y Otro"
+ },
+ {
+  "ts": "2026-10-13T12:24:19-03:00",
+  "de": "Correo",
+  "para": "El Mero Mero",
+  "tipo": "envia",
+  "texto": "Revisión 12:19 Chile: 2 correos nuevos movidos (Read AI 'Sesion 5 RS ROTH / FRAC"
+ },
+ {
+  "ts": "2026-10-13T12:24:31-03:00",
+  "de": "Correo",
+  "para": "Sebastian",
+  "tipo": "envia",
+  "texto": "Rutina 12:18: movió Sesion 5 RS ROTH (Read AI)→RS Roth y Sesión fracttal (Jose G"
  }
 ]
