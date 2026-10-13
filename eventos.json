@@ -460,5 +460,12 @@
   "para": "El Mero Mero",
   "tipo": "envia",
   "texto": "Revisión Outlook 13:27 (hora Chile): sesión abierta, sin login. Sincronizado. Ún"
+ },
+ {
+  "ts": "2026-10-13T15:29:23-03:00",
+  "de": "Correo",
+  "para": "Sebastian",
+  "tipo": "envia",
+  "texto": "13/10 15:28: revisión solo lectura de Otros en Outlook: no hay correos de hoy de"
  }
 ]
