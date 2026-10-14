@@ -705,5 +705,19 @@
   "para": "Sebastian",
   "tipo": "envia",
   "texto": "Rutina 19:17: sin correos nuevos; nada movido; sesión Outlook abierta"
+ },
+ {
+  "ts": "2026-10-14T20:17:55-03:00",
+  "de": "Correo",
+  "para": "Sebastian",
+  "tipo": "envia",
+  "texto": "Revisión 2026-10-14 ~20:16 Chile: sesión abierta, sin busy. Prioritarios sin cor"
+ },
+ {
+  "ts": "2026-10-14T20:18:09-03:00",
+  "de": "Correo",
+  "para": "Sebastian",
+  "tipo": "envia",
+  "texto": "Rutina 20:15: sin correos nuevos que archivar; bandeja sin cambios."
  }
 ]
