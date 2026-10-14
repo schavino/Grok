@@ -628,5 +628,19 @@
   "para": "Sebastian",
   "tipo": "envia",
   "texto": "Rutina 10:19: 1 correo a Clientes/Electrogas (aceptación sesión Alfonso); bandej"
+ },
+ {
+  "ts": "2026-10-14T11:21:51-03:00",
+  "de": "Correo",
+  "para": "El Mero Mero",
+  "tipo": "envia",
+  "texto": "Revisión 11:18 Chile: 2 correos de Promet movidos a Clientes/Promet (Protocolo C"
+ },
+ {
+  "ts": "2026-10-14T11:22:07-03:00",
+  "de": "Correo",
+  "para": "Sebastian",
+  "tipo": "envia",
+  "texto": "Rutina horaria: 2 correos a Clientes/Promet (Coya/protocolo y aceptación Fractta"
  }
 ]
