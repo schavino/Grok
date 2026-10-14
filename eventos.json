@@ -642,5 +642,19 @@
   "para": "Sebastian",
   "tipo": "envia",
   "texto": "Rutina horaria: 2 correos a Clientes/Promet (Coya/protocolo y aceptación Fractta"
+ },
+ {
+  "ts": "2026-10-14T12:11:26-03:00",
+  "de": "Correo",
+  "para": "Sebastian",
+  "tipo": "envia",
+  "texto": "14-oct 12:10 Chile: revisión de correos nuevos tras 11:21. No había correos nuev"
+ },
+ {
+  "ts": "2026-10-14T12:11:37-03:00",
+  "de": "Correo",
+  "para": "Sebastian",
+  "tipo": "envia",
+  "texto": "Rutina 12:10: sin correos nuevos que archivar; Outlook abierto."
  }
 ]
