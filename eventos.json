@@ -656,5 +656,12 @@
   "para": "Sebastian",
   "tipo": "envia",
   "texto": "Rutina 12:10: sin correos nuevos que archivar; Outlook abierto."
+ },
+ {
+  "ts": "2026-10-14T13:11:35-03:00",
+  "de": "Correo",
+  "para": "Sebastian",
+  "tipo": "envia",
+  "texto": "Revisión 13:10 (14/10): sesión de Outlook abierta. Sin correos nuevos después de"
  }
 ]
