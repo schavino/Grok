@@ -586,5 +586,19 @@
   "para": "El Mero Mero",
   "tipo": "envia",
   "texto": "Resumen matutino Outlook 14-oct: 1 movido a Electrogas; pendientes respuesta Car"
+ },
+ {
+  "ts": "2026-10-14T08:22:18-03:00",
+  "de": "Correo",
+  "para": "El Mero Mero",
+  "tipo": "envia",
+  "texto": "Revisión Outlook 2026-10-14 8:14: sesión abierta; vista cambiada a No agrupar y "
+ },
+ {
+  "ts": "2026-10-14T08:22:34-03:00",
+  "de": "Correo",
+  "para": "El Mero Mero",
+  "tipo": "envia",
+  "texto": "Rutina horaria 8:10: moví 1 correo a Clientes/PCSAPI (aceptación sesión Alfonso)"
  }
 ]
