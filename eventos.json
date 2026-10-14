@@ -544,5 +544,33 @@
   "para": "Claude",
   "tipo": "envia",
   "texto": "Datos del portafolio listos"
+ },
+ {
+  "ts": "2026-10-14T07:32:20-03:00",
+  "de": "Reuniones",
+  "para": "El Mero Mero",
+  "tipo": "envia",
+  "texto": "Rutina 14 oct: 3 reuniones mar 13 (Electrogas S6, Carrier S5, RS Roth S5) incorp"
+ },
+ {
+  "ts": "2026-10-14T07:32:27-03:00",
+  "de": "Reuniones",
+  "para": "Sebastian",
+  "tipo": "envia",
+  "texto": "Seguimiento clientes actualizado 14 oct ~07:30; 3 reuniones nuevas del 13 incorp"
+ },
+ {
+  "ts": "2026-10-14T07:32:50-03:00",
+  "de": "Reuniones",
+  "para": "El Mero Mero",
+  "tipo": "envia",
+  "texto": "Resumen diario Read AI 14 oct: 3 reuniones nuevas (Electrogas S6, Carrier S5, RS"
+ },
+ {
+  "ts": "2026-10-14T07:33:18-03:00",
+  "de": "Reuniones",
+  "para": "El Mero Mero",
+  "tipo": "envia",
+  "texto": "Resumen diario de Read AI enviado (mié 14 oct)"
  }
 ]
