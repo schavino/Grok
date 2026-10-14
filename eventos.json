@@ -614,5 +614,19 @@
   "para": "Sebastian",
   "tipo": "envia",
   "texto": "Rutina 9:18: sin correos nuevos; nada movido; sesión Outlook abierta."
+ },
+ {
+  "ts": "2026-10-14T10:24:39-03:00",
+  "de": "Correo",
+  "para": "El Mero Mero",
+  "tipo": "envia",
+  "texto": "14/10 ~10:12-10:25: movido a Clientes/Electrogas (no leído) «Aceptado: Sesion 6 "
+ },
+ {
+  "ts": "2026-10-14T10:24:55-03:00",
+  "de": "Correo",
+  "para": "Sebastian",
+  "tipo": "envia",
+  "texto": "Rutina 10:19: 1 correo a Clientes/Electrogas (aceptación sesión Alfonso); bandej"
  }
 ]
