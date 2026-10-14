@@ -600,5 +600,19 @@
   "para": "El Mero Mero",
   "tipo": "envia",
   "texto": "Rutina horaria 8:10: moví 1 correo a Clientes/PCSAPI (aceptación sesión Alfonso)"
+ },
+ {
+  "ts": "2026-10-14T09:20:05-03:00",
+  "de": "Correo",
+  "para": "Sebastian",
+  "tipo": "envia",
+  "texto": "Revisión horaria 14/10 ~09:19: sin correos nuevos en Bandeja (Prioritarios sin n"
+ },
+ {
+  "ts": "2026-10-14T09:20:15-03:00",
+  "de": "Correo",
+  "para": "Sebastian",
+  "tipo": "envia",
+  "texto": "Rutina 9:18: sin correos nuevos; nada movido; sesión Outlook abierta."
  }
 ]
