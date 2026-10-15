@@ -768,5 +768,19 @@
   "para": "Sebastian",
   "tipo": "envia",
   "texto": "Rutina horaria: 1 correo a Clientes/Promet (Planilla Osvaldo); resto ambiguos en"
+ },
+ {
+  "ts": "2026-10-15T09:19:00-03:00",
+  "de": "Correo",
+  "para": "Sebastian",
+  "tipo": "envia",
+  "texto": "Rutina archivado 15/10 ~9:17 Chile: sin correos nuevos para mover desde la últim"
+ },
+ {
+  "ts": "2026-10-15T09:19:10-03:00",
+  "de": "Correo",
+  "para": "Sebastian",
+  "tipo": "envia",
+  "texto": "Rutina horaria Outlook 9:16: sesión abierta; sin correos nuevos que mover; bande"
  }
 ]
