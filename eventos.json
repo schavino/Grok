@@ -796,5 +796,19 @@
   "para": "El Mero Mero",
   "tipo": "envia",
   "texto": "Rutina 10:25: Outlook abierto pero otra sesión en la pestaña (borradores 4→7, co"
+ },
+ {
+  "ts": "2026-10-15T11:32:58-03:00",
+  "de": "Correo",
+  "para": "El Mero Mero",
+  "tipo": "envia",
+  "texto": "Revisión Outlook 11:29 Chile: movidos 2 correos de Leonardo Toloza (Grupo JCS) a"
+ },
+ {
+  "ts": "2026-10-15T11:33:15-03:00",
+  "de": "Correo",
+  "para": "El Mero Mero",
+  "tipo": "envia",
+  "texto": "Rutina 11:30: 2 correos a Clientes/Grupo JCS (Leonardo Toloza); resto ambiguo o "
  }
 ]
