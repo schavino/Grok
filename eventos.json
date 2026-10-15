@@ -922,5 +922,12 @@
   "para": "oficina",
   "tipo": "envia",
   "texto": "Rutina 19:10: 1 correo a Clientes/PCSAPI (aceptación sesión Fracttal); PROINGRA "
+ },
+ {
+  "ts": "2026-10-15T20:17:12-03:00",
+  "de": "Correo",
+  "para": "El Mero Mero",
+  "tipo": "envia",
+  "texto": "Revisión solo lectura Outlook 20:16: Otros sin correos de hoy (lo más nuevo 26/0"
  }
 ]
