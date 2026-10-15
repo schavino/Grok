@@ -782,5 +782,19 @@
   "para": "Sebastian",
   "tipo": "envia",
   "texto": "Rutina horaria Outlook 9:16: sesión abierta; sin correos nuevos que mover; bande"
+ },
+ {
+  "ts": "2026-10-15T10:29:19-03:00",
+  "de": "Correo",
+  "para": "El Mero Mero",
+  "tipo": "envia",
+  "texto": "Rutina 10:26: otra sesión ocupada en Outlook. Aparecieron borradores nuevos (Bor"
+ },
+ {
+  "ts": "2026-10-15T10:29:39-03:00",
+  "de": "Correo",
+  "para": "El Mero Mero",
+  "tipo": "envia",
+  "texto": "Rutina 10:25: Outlook abierto pero otra sesión en la pestaña (borradores 4→7, co"
  }
 ]
