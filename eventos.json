@@ -866,5 +866,12 @@
   "para": "Sebastian",
   "tipo": "envia",
   "texto": "Rutina 15:15: 2 a Clientes/PCSAPI (Sesión PCSAPI Read AI + RE Oralia); PROINGRA "
+ },
+ {
+  "ts": "2026-10-15T16:15:41-03:00",
+  "de": "Correo",
+  "para": "El Mero Mero",
+  "tipo": "envia",
+  "texto": "Revisión 15 oct 16:10: movidos 2 correos nuevos (Grupo JCS: Servicio 9 de Manten"
  }
 ]
