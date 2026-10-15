@@ -740,5 +740,19 @@
   "para": "El Mero Mero",
   "tipo": "envia",
   "texto": "Rutina 15 oct: sin reuniones nuevas; seguimiento y resumen diario actualizados ("
+ },
+ {
+  "ts": "2026-10-15T07:40:39-03:00",
+  "de": "Correo",
+  "para": "El Mero Mero",
+  "tipo": "envia",
+  "texto": "Revisión matutina 15/10 (7:32): sesión Outlook abierta, sin login. Bandeja: 6 co"
+ },
+ {
+  "ts": "2026-10-15T07:40:58-03:00",
+  "de": "Correo",
+  "para": "El Mero Mero",
+  "tipo": "envia",
+  "texto": "Resumen matutino de Outlook 15/10 listo: sin correos movidos; pendientes de Prom"
  }
 ]
