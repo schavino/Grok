@@ -845,5 +845,12 @@
   "para": "Sebastian",
   "tipo": "envia",
   "texto": "Rutina 14:20: nada movido; 2 correos PROINGRA (sin carpeta) dejados en bandeja"
+ },
+ {
+  "ts": "2026-10-15T15:20:26-03:00",
+  "de": "Correo",
+  "para": "Sebastian",
+  "tipo": "envia",
+  "texto": "Revisión 15:16: movidos 2 correos PCSAPI (Read AI 'Sesión PCSAPI – Fracttal' 15:"
  }
 ]
