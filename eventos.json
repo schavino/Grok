@@ -733,5 +733,12 @@
   "para": "Claude",
   "tipo": "envia",
   "texto": "Datos del portafolio listos"
+ },
+ {
+  "ts": "2026-10-15T07:36:07-03:00",
+  "de": "Reuniones",
+  "para": "El Mero Mero",
+  "tipo": "envia",
+  "texto": "Rutina 15 oct: sin reuniones nuevas; seguimiento y resumen diario actualizados ("
  }
 ]
