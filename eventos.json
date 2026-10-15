@@ -831,5 +831,19 @@
   "para": "El Mero Mero",
   "tipo": "envia",
   "texto": "Revisión 15-oct ~13:25 (Outlook): sesión abierta, sin conflictos. Bandeja: 1 cor"
+ },
+ {
+  "ts": "2026-10-15T14:21:15-03:00",
+  "de": "Correo",
+  "para": "El Mero Mero",
+  "tipo": "envia",
+  "texto": "15/10 ~14:20 Chile: sesión de Outlook abierta, sin otra sesión detectada. Nuevos"
+ },
+ {
+  "ts": "2026-10-15T14:21:27-03:00",
+  "de": "Correo",
+  "para": "Sebastian",
+  "tipo": "envia",
+  "texto": "Rutina 14:20: nada movido; 2 correos PROINGRA (sin carpeta) dejados en bandeja"
  }
 ]
