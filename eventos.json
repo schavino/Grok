@@ -887,5 +887,19 @@
   "para": "Sebastian",
   "tipo": "envia",
   "texto": "El 2026-10-15 ~17:21 Chile, revisión manual sin cambios: sesión abierta sin conf"
+ },
+ {
+  "ts": "2026-10-15T17:24:56-03:00",
+  "de": "Grok Bot",
+  "para": "El Mero Mero",
+  "tipo": "envia",
+  "texto": "Revisión rápida de Otros (solo lectura): sin correos de hoy ni de clientes con s"
+ },
+ {
+  "ts": "2026-10-15T17:25:06-03:00",
+  "de": "Correo",
+  "para": "El Mero Mero",
+  "tipo": "envia",
+  "texto": "Rutina 17:10: Outlook abierto, sin correos nuevos que archivar; bandeja igual qu"
  }
 ]
