@@ -1132,5 +1132,12 @@
   "para": "Sebastian",
   "tipo": "envia",
   "texto": "2026-10-16 ~19:18 Chile: revisión de correos posteriores a 18:10. Sesión abierta"
+ },
+ {
+  "ts": "2026-10-16T18:19:22-05:00",
+  "de": "Correo",
+  "para": "El Mero Mero",
+  "tipo": "envia",
+  "texto": "Revisión 16-oct 20:18: sesión Outlook abierta, sin conflicto. Nuevo desde 19:18:"
  }
 ]
