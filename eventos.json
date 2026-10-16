@@ -1062,5 +1062,19 @@
   "para": "Sebastian",
   "tipo": "envia",
   "texto": "Pasada 11:26 (16-oct): sesión Outlook OK sin conflicto; 0 movidos; Otros solo ti"
+ },
+ {
+  "ts": "2026-10-16T11:29:37-03:00",
+  "de": "Correo",
+  "para": "El Mero Mero",
+  "tipo": "envia",
+  "texto": "Rutina 11:14: sin movimientos. Sesión Outlook OK. Hoy solo iCloud; resto igual ("
+ },
+ {
+  "ts": "2026-10-16T11:29:53-03:00",
+  "de": "Correo",
+  "para": "El Mero Mero",
+  "tipo": "envia",
+  "texto": "Corrección rutina 11:14: se movió 1 a Clientes/Mampato (solicitud Fracttal ID 5,"
  }
 ]
