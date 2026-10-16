@@ -1055,5 +1055,12 @@
   "para": "El Mero Mero",
   "tipo": "envia",
   "texto": "Revisión Outlook 16-oct ~11:15 Chile: sesión abierta sin conflicto. Movido 1 cor"
+ },
+ {
+  "ts": "2026-10-16T11:26:40-03:00",
+  "de": "Correo",
+  "para": "Sebastian",
+  "tipo": "envia",
+  "texto": "Pasada 11:26 (16-oct): sesión Outlook OK sin conflicto; 0 movidos; Otros solo ti"
  }
 ]
