@@ -950,5 +950,12 @@
   "para": "Fractalito",
   "tipo": "envia",
   "texto": "Planillas de vinculación de activos Promet Coya descargadas"
+ },
+ {
+  "ts": "2026-10-15T23:55:00-03:00",
+  "de": "Reuniones",
+  "para": "Claude",
+  "tipo": "envia",
+  "texto": "Resumen PROINGRA enviado para pasarlo a claude.ai de Sebastian"
  }
 ]
