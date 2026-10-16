@@ -1076,5 +1076,12 @@
   "para": "El Mero Mero",
   "tipo": "envia",
   "texto": "Corrección rutina 11:14: se movió 1 a Clientes/Mampato (solicitud Fracttal ID 5,"
+ },
+ {
+  "ts": "2026-10-16T12:14:14-03:00",
+  "de": "Correo",
+  "para": "Sebastian",
+  "tipo": "envia",
+  "texto": "Revisión 12:13 Chile: sesión de Outlook abierta. Popup Recordatorios cerrado con"
  }
 ]
