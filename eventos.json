@@ -999,5 +999,12 @@
   "para": "Sebastian",
   "tipo": "envia",
   "texto": "Revisión Outlook 9:16: sesión abierta, sin conflicto. Prioritarios y Otros sin c"
+ },
+ {
+  "ts": "2026-10-16T09:27:04-03:00",
+  "de": "Correo",
+  "para": "El Mero Mero",
+  "tipo": "envia",
+  "texto": "Revision 16-oct: movidos 2 Fracttal (Resiter) a Clientes/Resiter; resto en bande"
  }
 ]
