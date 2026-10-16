@@ -943,5 +943,12 @@
   "para": "El Mero Mero",
   "tipo": "envia",
   "texto": "Rutina 21:10: sin correos nuevos tras 19:01; nada movido; sesión Outlook abierta"
+ },
+ {
+  "ts": "2026-10-15T23:43:33-03:00",
+  "de": "Correo",
+  "para": "Fractalito",
+  "tipo": "envia",
+  "texto": "Planillas de vinculación de activos Promet Coya descargadas"
  }
 ]
