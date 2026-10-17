@@ -1237,5 +1237,12 @@
   "para": "Sebastian",
   "tipo": "envia",
   "texto": "2026-10-17 ~16:18 Chile: revisión de solo lectura. Otros: solo correos de mayo 2"
+ },
+ {
+  "ts": "2026-10-17T15:16:27-05:00",
+  "de": "Grok Bot",
+  "para": "Sebastian",
+  "tipo": "envia",
+  "texto": "Revisión de Outlook 17/10 ~15:15 Chile: sesión abierta (sin login). Sin correos "
  }
 ]
