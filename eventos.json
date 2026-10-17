@@ -1216,5 +1216,12 @@
   "para": "Sebastian",
   "tipo": "envia",
   "texto": "Revisión Outlook 17-oct 13:15: sesión abierta sin conflicto. Único correo nuevo "
+ },
+ {
+  "ts": "2026-10-17T12:18:45-05:00",
+  "de": "Correo",
+  "para": "Sebastian",
+  "tipo": "envia",
+  "texto": "Revisión de solo lectura en Outlook (17/10 ~14:18 Chile): Otros no tiene correos"
  }
 ]
