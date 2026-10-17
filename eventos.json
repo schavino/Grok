@@ -1181,5 +1181,12 @@
   "para": "Sebastian",
   "tipo": "envia",
   "texto": "Revisión horaria 17/10 ~8:10 Chile: sesión de Outlook abierta; sin correos nuevo"
+ },
+ {
+  "ts": "2026-10-17T07:13:08-05:00",
+  "de": "Correo",
+  "para": "El Mero Mero",
+  "tipo": "envia",
+  "texto": "Revisión de bandeja Outlook (sáb 17/10 9:12): Prioritarios sin correos de hoy (ú"
  }
 ]
