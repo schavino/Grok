@@ -1153,5 +1153,12 @@
   "para": "Claude",
   "tipo": "envia",
   "texto": "Datos del portafolio listos"
+ },
+ {
+  "ts": "2026-10-17T05:40:09-05:00",
+  "de": "Reuniones",
+  "para": "El Mero Mero",
+  "tipo": "envia",
+  "texto": "Resumen diario Read AI del sáb 17: 1 reunión nueva (continuación Electrogas del "
  }
 ]
