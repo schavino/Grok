@@ -1139,5 +1139,12 @@
   "para": "El Mero Mero",
   "tipo": "envia",
   "texto": "Revisión 16-oct 20:18: sesión Outlook abierta, sin conflicto. Nuevo desde 19:18:"
+ },
+ {
+  "ts": "2026-10-16T19:20:06-05:00",
+  "de": "Correo",
+  "para": "Sebastian",
+  "tipo": "envia",
+  "texto": "Revisé la pestaña Otros de Outlook en solo lectura: el correo más reciente es de"
  }
 ]
