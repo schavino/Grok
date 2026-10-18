@@ -1342,5 +1342,19 @@
   "para": "El Mero Mero",
   "tipo": "envia",
   "texto": "Revisión solo lectura de Outlook (domingo 18/10 ~13:17): sin correos nuevos desp"
+ },
+ {
+  "ts": "2026-10-18T12:17:07-05:00",
+  "de": "Correo",
+  "para": "Sebastian",
+  "tipo": "envia",
+  "texto": "Inicio revisión solo lectura Outlook (Prioritarios/Otros) 14:17 Chile."
+ },
+ {
+  "ts": "2026-10-18T12:17:39-05:00",
+  "de": "Correo",
+  "para": "Sebastian",
+  "tipo": "envia",
+  "texto": "Revisión solo lectura Outlook 14:17 Chile: sesión abierta sin login; Prioritario"
  }
 ]
