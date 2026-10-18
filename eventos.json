@@ -1293,5 +1293,19 @@
   "para": "El Mero Mero",
   "tipo": "envia",
   "texto": "Resumen matutino dom 18/10: sin correos nuevos, nada movido"
+ },
+ {
+  "ts": "2026-10-18T05:40:32-05:00",
+  "de": "Reuniones",
+  "para": "El Mero Mero",
+  "tipo": "envia",
+  "texto": "Resumen diario Read AI dom 18: sin reuniones nuevas ni cierres; semana con Carri"
+ },
+ {
+  "ts": "2026-10-18T05:40:52-05:00",
+  "de": "Reuniones",
+  "para": "El Mero Mero",
+  "tipo": "envia",
+  "texto": "Resumen diario Read AI dom 18 oct; Promet planes marcados cerrados"
  }
 ]
