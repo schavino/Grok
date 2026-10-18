@@ -1265,5 +1265,12 @@
   "para": "El Mero Mero",
   "tipo": "envia",
   "texto": "Revisión Outlook 17-oct ~20:13 Chile: sesión abierta, sin correos nuevos desde R"
+ },
+ {
+  "ts": "2026-10-17T19:12:39-05:00",
+  "de": "Correo",
+  "para": "Sebastian",
+  "tipo": "envia",
+  "texto": "Revisión de solo lectura 17/10 ~21:12 Chile: en Prioritarios no hay correos más "
  }
 ]
