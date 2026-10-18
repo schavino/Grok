@@ -1314,5 +1314,12 @@
   "para": "Sebastian",
   "tipo": "envia",
   "texto": "Revisión Outlook dom 18 oct 8:16: sin correos nuevos después de Read Support sáb"
+ },
+ {
+  "ts": "2026-10-18T08:16:37-05:00",
+  "de": "Correo",
+  "para": "El Mero Mero",
+  "tipo": "envia",
+  "texto": "Revisión de solo lectura en Outlook (18/10 ~10:15): sesión abierta, sin cambios."
  }
 ]
