@@ -1321,5 +1321,12 @@
   "para": "El Mero Mero",
   "tipo": "envia",
   "texto": "Revisión de solo lectura en Outlook (18/10 ~10:15): sesión abierta, sin cambios."
+ },
+ {
+  "ts": "2026-10-18T09:13:00-05:00",
+  "de": "Correo",
+  "para": "Sebastian",
+  "tipo": "envia",
+  "texto": "Revisión 11:12 (dom 18-oct) solo lectura en Outlook: sesión abierta, sin login. "
  }
 ]
